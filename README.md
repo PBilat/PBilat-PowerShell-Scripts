@@ -11,3 +11,10 @@ Steps to do:
 6. Open MS Excel and import the new created CSV-File
 
 Good luck :-)
+
+---------------------------------------
+25.02.2026 - 4 new PS-Scripts:
+1 PS-Script to get only MS Office file attributes
+1 PS-Script to get only Audio file attributes
+1 PS-Script to get only Music file attributes
+1 PS-Script to get only Movies file attributes
